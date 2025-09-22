@@ -4,7 +4,8 @@ Faking AvtoBys tickets.
 1.Install Termux on [Fdroid](https://f-droid.org/en/packages/com.termux/) or [Play Store](https://play.google.com/store/apps/details?id=com.termux).
 2. Copy and Paste in Termux: 
 `git clone https://github.com/itzAkss/fake-ticket.git &&
-cd ticket && chmod +x setup.sh`
+cd ticket && chmod +x setup.sh
+./setup sh`
 3. Wait.
 4. Open with `python3 ticket.py`, Enter info.
 5. Done, now you can open it with File manager or with termux-open.
