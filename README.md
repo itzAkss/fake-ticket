@@ -3,7 +3,7 @@ Faking AvtoBys tickets.
 # How To Use:
 1.Install Termux on [Fdroid](https://f-droid.org/en/packages/com.termux/) or [Play Store](https://play.google.com/store/apps/details?id=com.termux).
 2. Copy and Paste in Termux: 
-`git clone https://github.com/itzAkss/fake-ticket.git &&
+`pkg install git && git clone https://github.com/itzAkss/fake-ticket.git &&
 cd ticket && chmod +x setup.sh
 ./setup sh`
 3. Wait.
