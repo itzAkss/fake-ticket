@@ -5,7 +5,7 @@ Faking AvtoBys tickets.
 2. Copy and Paste in Termux: 
 `pkg install git && git clone https://github.com/itzAkss/fake-ticket.git &&
 cd fake-ticket && chmod +x setup.sh
-./setup sh`
+./setup.sh`
 3. Wait.
 4. Open with `python3 ticket.py`, Enter info.
 5. Done, now you can open it with File manager or with termux-open.
