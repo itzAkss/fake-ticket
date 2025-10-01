@@ -50,3 +50,11 @@ Also you need to change screenshot "ticket_template.png" to yours
 2. Оплатите проезд и сделайте скриншот билета.
 3. Удалите номер автобуса, маршрут, время и дату (закрасьте белым).
 4. Переместите и переименуйте файл в ticket_template.png.
+
+# VirusTotal (EN/RU)
+https://www.virustotal.com/gui/file/0637578544b7f6c6bae275b835fa3de1844cfb4b0bfb3a07681d2f18c6ab06e4?nocache=1
+![Detections](https://github.com/user-attachments/assets/2afe537d-8a1f-4f87-a795-e3b56a66c354)
+
+> ⚠️ When modifying and re-signing an APK, some antivirus programs may mistakenly identify the file as "modified" or "riskware." This is because the original signature has been replaced with a user-defined signature.
+
+> ⚠️ При изменении и повторной подписи APK некоторые антивирусы могут ошибочно определять файл как «модифицированный» или «riskware». Это связано с тем, что оригинальная подпись заменена на пользовательскую, а функционал (например, снятие блокировки скриншота) был изменён. Опасного кода в проекте нет — это ложные срабатывания.
