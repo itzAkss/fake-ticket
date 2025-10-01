@@ -3,7 +3,7 @@
 - Deleted ticket.py and replaced it by ticketqr.py (Now with name ticket.py)
 - Added language selection (ru/en)
 # How To Use:
-1.Install Termux on [Fdroid](https://f-droid.org/en/packages/com.termux/) or [Play Store](https://play.google.com/store/apps/details?id=com.termux).
+1. Install Termux on [Fdroid](https://f-droid.org/en/packages/com.termux/) or [Play Store](https://play.google.com/store/apps/details?id=com.termux).
 2. Copy and Paste in Termux: 
 `pkg install git && git clone https://github.com/itzAkss/fake-ticket.git &&
 cd fake-ticket && chmod +x setup.sh && ./setup.sh`
